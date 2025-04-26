@@ -1,4 +1,4 @@
-Android app skeleton for a quick start with legacy Views
+Android app skeleton for a quick start with the traditional view approach
 
 Features (10% finished)
 * Follows the legacy imperative approach 
