@@ -1,6 +1,6 @@
 Android app skeleton for a quick start with the traditional view approach
 
-Features (10% finished)
+Features (0% finished)
 * Follows the legacy imperative approach 
 * completely written in Kotlin 
 * build with Gradle using Gradle Kotlin DSL
